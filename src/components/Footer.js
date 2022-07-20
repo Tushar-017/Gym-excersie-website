@@ -9,7 +9,7 @@ const Footer = () => {
       <Stack gap='40px' alignItems='center' px='40px' pt='24px'>
         <img src={Logo} alt='logo' width='200px' height='40px '/>
         <Typography variant='small' pb='40px' mt='40px'>
-          &copy; 2022 Tushar Rajput - All rigths reserved
+          &copy; 2022 Tushar Rajput - All rights reserved
         </Typography>
       </Stack>
     </Box>
